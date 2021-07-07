@@ -1,5 +1,10 @@
 # react-meals
+
 Just a Simple dummy food ordering application
+
+## Live Demo
+
+https://reactmealsapp.herokuapp.com/
 
 ## Available Scripts
 
